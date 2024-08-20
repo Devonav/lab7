@@ -19,7 +19,7 @@ array2:
 20: # of times 20 is swapped
 .
 .
-total # of swaps
+total number of swaps
 
 
 
