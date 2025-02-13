@@ -6,7 +6,7 @@ array2: 90  80  70  60  50  40  30  20  10
 
 
 
-The output should have a similar output:
+The output should have a similar output below:
 array1:
 7: # of times 7 is swapped
 13: # of times 13 is swapped
